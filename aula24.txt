@@ -1,0 +1,7 @@
+Usando o Python no vs code:
+plugin: Python e code runner
+pacotes: flake8 e autopep8
+em configurações: enable flake8 e format on save
+opção no vscode: open preview
+Criar ambiente virtual: no terminal dentro da pasta do meu projeto:
+python3 -m venv venv 
